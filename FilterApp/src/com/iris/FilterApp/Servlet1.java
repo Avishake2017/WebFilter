@@ -22,6 +22,8 @@ public class Servlet1 extends HttpServlet {
 			String name = request.getParameter("name");
 			
 			
+			
+			
 			out.println(id);
 			out.println(name);
 	}
